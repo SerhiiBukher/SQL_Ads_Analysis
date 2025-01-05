@@ -5,10 +5,11 @@
 ## Project Description :
 In this project, I performed a series of SQL queries to analyze advertising data from four database tables:
 
- - facebook_ads_basic_daily
- - facebook_adset
- - facebook_campaign
- - google_ads_basic_daily
+ - **facebook_ads_basic_daily**
+ - **facebook_adset**
+ - **facebook_campaign**
+ - **google_ads_basic_daily**
+   
 Objective: Combine advertising metrics (spend, impressions, reach, clicks, leads, value) from both Facebook and Google Ads, filter out unnecessary information, and prepare a clear dataset for further analysis.
 
 ## Main Steps :
